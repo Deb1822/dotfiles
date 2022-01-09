@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = deborahsaverys1822@gmail.com
+	name = deborahsaverys
